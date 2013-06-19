@@ -1,0 +1,15 @@
+Date: Sun Jun 16 21:09:08 CDT 2013
+
+# About Me #
+
+I tested [here][races] for my Technician license on  and received call KC9WSJ on .
+I immediately ordered my [Yaesu VX-8DR][vx8dr] from [Ham City][hamcity], and have had a lot of fun on the local VHF repeaters (and a little bit on UHF). I found [rfinder][] an invaluable resource for locating repeater info.
+
+
+I wish I had more time to study for the General!
+
+
+[races]: http://races.org/veinfo.htm
+[vx8dr]: http://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=111&encProdID=03484E782FF9B7DFA27AEE086A68F530&DivisionID=65&isArchived=0
+[hamcity]: http://www.hamcity.com/Store/pc/Handheld-Radios-c10.htm
+[rfinder]: http://www.rfinder.net/

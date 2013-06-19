@@ -1,0 +1,6 @@
+/
+about
+  my-shack
+  my-antennas
+  my-location
+blog

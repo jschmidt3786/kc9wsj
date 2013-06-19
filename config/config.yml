@@ -1,8 +1,8 @@
 # Title and subheading for your site. Used on the home page and in page
 # titles.
 #
-title: "Jeff's Site"
-subtitle: "nesta cms in ruby"
+title: "KC9WSJ"
+subtitle: "amateur radio noob @ EN52wf"
 
 # You should really specify your content's author when generating an
 # Atom feed. Specify at least one of name, uri or email, and Nesta will
@@ -14,13 +14,17 @@ subtitle: "nesta cms in ruby"
 #   name: Your Name
 #   uri: http://yourhomepage.com
 #   email: you@yourdomain.com
+author:
+  name: Jeff Schmidt
+  uri: http://kc9wsj.us
+  email: jeff@kc9wsj.us
 
 # You can stick with the default look and feel, or use a theme. Themes are
 # easy to create or install, and live inside the themes directory. You
 # can also use scripts/theme to install them.
 #
 # theme: name-of-theme
-
+theme: slate
 # If you want to use the Disqus service (http://disqus.com) to display
 # comments on your site, register a Disqus account and then specify your
 # site's short name here. A comment form will automatically be added to
@@ -42,7 +46,8 @@ cache: false
 #     your actual content and the (optional) menu.txt file that links to your
 #     main category pages.
 #
-content: content-demo
+#content: content-demo
+content: content
 
 # google_analytics_code
 #     Set this if you want Google Analytics to track traffic on your site.
